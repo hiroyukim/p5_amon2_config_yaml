@@ -1,4 +1,4 @@
-package Amon2::Config::Simple;
+package Amon2::Config::Yaml;
 use strict;
 use warnings;
 use File::Spec;
